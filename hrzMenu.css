@@ -1,0 +1,20 @@
+body{
+	direction:rtl;
+	text-align:right;
+	background-color: #000d31;
+}
+
+ul{
+margin:0;
+padding:0;
+list-style-type: none;	
+background-color: grey;	
+}
+
+li{
+	display:inline;
+	float:right;
+	background-color: #00d432;
+	border: 1px solid #d03214;
+	margin: 3px;
+}
