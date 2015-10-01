@@ -1,0 +1,32 @@
+body{
+	direction:rtl;
+	text-align:right;
+	/*background-color: #000f31;*/
+}
+
+nav{
+/*I added the: "float:right" in order to prevent the menu from spread all over the line */
+	float: right;*/
+}
+
+ul{
+	padding:20px 0 20px 0;
+	list-style-type: none;	
+	background-color: gray;	
+	border:1px solid red;
+	margin:0 auto;
+}
+
+li{
+	margin:10px 10px 0 10px;
+	background-color: #0fd432;
+	border: 1px solid #f0dddd;
+	font-family:Tahoma;
+	font-size: 14px;
+	/*width:100px;*/
+}
+
+ a{
+	text-decoration:none;	
+}
+	
