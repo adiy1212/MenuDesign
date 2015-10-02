@@ -3,7 +3,7 @@ body{
 	direction:rtl;
 	text-align:right;
 	background-image:url("http://static.tumblr.com/c9401245aeb5d46be3385b89fdd5e8b1/lqxy6be/e8Ln1piwe/tumblr_static_tumblr_static_tumblr-barn.jpg");
-	background-repeat:repeat-x;
+	background-repeat:repeat;
 }
 
 /*headline design*/ 
@@ -82,9 +82,18 @@ div#candypics{
 	
 }
 div img{
-width:300px;
-height: 300px;
-border-radius: 100%;
-margin-right:20px;	
+	width:300px;
+	height: 300px;
+	border-radius: 100%;
+	margin-right:20px;	
 }
 
+img#clown{
+	clear:both;
+	position:absolute;
+	left:20px;
+	width:200px;
+	height: 200px;	
+	margin:0;
+	padding:0;
+}
